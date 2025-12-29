@@ -5,5 +5,6 @@ public class Main {
         System.out.printf("Hello and welcome!");
         System.out.printf("I'm gwang!");
         System.out.printf("I'm gwang!");
+        System.out.println("I'm minje");
     }
 }
